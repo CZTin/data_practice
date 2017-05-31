@@ -1,2 +1,2 @@
 # data_practice
-Python Crash Chapter15-17
+Python Crash Chapter 15, 16, 17
